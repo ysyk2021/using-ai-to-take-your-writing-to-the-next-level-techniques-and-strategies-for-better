@@ -1,0 +1,15 @@
+{
+    "name": "using-ai-to-take-your-writing-to-the-next-level-techniques-and-strategies-for-better-writing-outcomes",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
