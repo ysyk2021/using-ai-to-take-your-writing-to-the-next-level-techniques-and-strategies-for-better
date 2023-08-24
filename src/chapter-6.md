@@ -1,5 +1,3 @@
-Chapter 6: Designing Your AI-Enabled Writing Process
-====================================================
 
 Designing an AI-enabled writing process can help writers achieve better writing outcomes by enhancing their writing quality, productivity, and creativity. In this chapter, we will explore how to develop your AI writing toolkit, integrate AI into your writing workflow, and implement AI techniques for continuous improvement of writing quality and quantity.
 
@@ -22,5 +20,4 @@ Conclusion
 ----------
 
 Designing an AI-enabled writing process can help writers achieve better writing outcomes by enhancing their writing quality, productivity, and creativity. By developing your AI writing toolkit, integrating AI into your writing workflow and creative process, and implementing AI techniques for continuous improvement of writing quality and quantity, you can leverage the power of AI to take your writing to the next level. As AI technology continues to evolve, writers must stay up-to-date on the latest developments and explore how they can leverage AI to achieve better writing outcomes.
-
 

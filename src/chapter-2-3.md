@@ -1,5 +1,3 @@
-Tools and Software for AI-Enabled Writing Planning and Performance Tracking
-===========================================================================================================================================
 
 AI technology is transforming the way we approach writing, offering a range of tools and techniques to enhance writing quality and productivity. In this chapter, we will explore the tools and software available to help writers plan and track their writing performance using AI technology.
 

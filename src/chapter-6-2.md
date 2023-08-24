@@ -1,5 +1,3 @@
-Integrating AI into Your Writing Workflow and Creative Process
-====================================================================================================================
 
 Integrating AI into your writing workflow and creative process can help you achieve better writing outcomes by enhancing your productivity, creativity, and collaboration. In this chapter, we will explore some ways to integrate AI into your writing workflow and creative process.
 

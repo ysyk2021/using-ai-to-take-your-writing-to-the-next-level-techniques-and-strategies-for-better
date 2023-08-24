@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Writing Enhancement
-=============================================================
 
 As AI technology continues to evolve, its use in writing enhancement is becoming more prevalent. In this chapter, we will explore how to evaluate the impact of AI on writing enhancement.
 

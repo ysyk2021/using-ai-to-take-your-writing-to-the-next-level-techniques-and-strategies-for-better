@@ -1,5 +1,3 @@
-Chapter 5: AI Techniques and Strategies for Specific Writing Genres and Styles
-==============================================================================
 
 AI technology can be used to enhance writing productivity across various genres and styles. In this chapter, we will explore how AI techniques and strategies can be optimized for specific writing genres and styles.
 

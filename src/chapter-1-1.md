@@ -1,5 +1,3 @@
-The Growing Use of AI in Writing and Publishing
-========================================================================
 
 AI technology is increasingly being used in the writing and publishing industry to enhance writing quality and productivity. In this chapter, we will explore the growing use of AI in writing and publishing.
 

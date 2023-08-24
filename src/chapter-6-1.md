@@ -1,5 +1,3 @@
-Developing Your AI Writing Toolkit and Customization
-==========================================================================================================
 
 To design an effective AI-enabled writing process, you need to select the right tools and techniques that fit your writing style and goals. In this chapter, we will explore how to develop your AI writing toolkit and customize it to ensure it works best for you.
 
