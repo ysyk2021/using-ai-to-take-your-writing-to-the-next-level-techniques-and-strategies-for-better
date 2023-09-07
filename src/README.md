@@ -8,3 +8,7 @@ Throughout the book, we will draw on real-world examples of successful writers w
 Whether you're a professional writer or simply seeking to improve your writing skills, this book will provide you with the knowledge and inspiration you need to take your writing to the next level with AI. By integrating these techniques and strategies into your writing process, you can create more compelling, accurate, and effective content for your readers.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
