@@ -1,5 +1,4 @@
-Chapter 6: Challenges and Risks of AI Adoption in Writing Improvement and How to Overcome Them
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we continue our exploration of using Artificial Intelligence (AI) to enhance your writing, it's important to acknowledge that AI adoption in writing improvement is not without its challenges and potential risks. In this chapter, we will delve into these challenges and provide strategies to overcome them, ensuring a smooth integration of AI into your writing process.
 

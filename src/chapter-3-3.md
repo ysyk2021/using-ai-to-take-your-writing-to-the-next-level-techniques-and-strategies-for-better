@@ -1,5 +1,4 @@
-Chapter 6: Increasing Creativity and Originality with AI-Powered Idea Generation and Inspiration
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creativity and originality are the lifeblood of compelling writing. In this chapter, we will explore how AI can be a powerful ally in stimulating your creativity and inspiring original ideas to take your writing to the next level.
 

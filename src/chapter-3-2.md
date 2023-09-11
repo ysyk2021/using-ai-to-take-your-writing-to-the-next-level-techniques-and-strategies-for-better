@@ -1,5 +1,4 @@
-Chapter 4: Enhancing Clarity and Coherence with AI-Enabled Style and Structural Analysis
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) can be harnessed to elevate the clarity and coherence of your writing. Effective communication is at the heart of every successful piece of writing, whether it's an essay, a report, a novel, or a business document. Clarity and coherence are key elements that determine how well your message is conveyed to your readers. AI technologies have evolved to provide invaluable assistance in achieving these goals.
 

@@ -1,5 +1,4 @@
-Chapter 10: Tools and Software for AI-Enabled Writing Planning and Performance Tracking
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To harness the full potential of Artificial Intelligence (AI) in elevating your writing skills, it's essential to have a comprehensive toolkit that includes tools and software for writing planning and performance tracking. In this chapter, we will explore various AI-enabled applications and platforms designed to help you plan your writing projects effectively and monitor your performance to achieve better writing outcomes.
 

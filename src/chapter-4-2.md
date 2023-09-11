@@ -1,5 +1,4 @@
-Chapter 9: Boosting Speed and Efficiency with AI-Enabled Text Generation and Automation
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the fast-paced world of content creation, the ability to produce high-quality written material quickly and efficiently is a coveted skill. Artificial Intelligence (AI) offers remarkable solutions for accelerating your writing process through text generation and automation. In this chapter, we will explore how you can harness AI to boost your speed and efficiency, ultimately achieving better writing outcomes.
 

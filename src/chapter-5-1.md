@@ -1,5 +1,4 @@
-Chapter 9: Optimizing AI Techniques for Fiction Writing, Non-Fiction Writing, Technical Writing, and Other Writing Styles
-=========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 One of the remarkable aspects of AI is its versatility in enhancing various writing styles. In this chapter, we will explore how to tailor AI techniques to optimize your writing in different genres and styles, including fiction, non-fiction, technical writing, and more.
 

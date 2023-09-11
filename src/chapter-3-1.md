@@ -1,5 +1,4 @@
-Chapter 3: Improving Language and Grammar with AI-Enabled Proofreading and Editing Tools
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the power of Artificial Intelligence (AI) when it comes to enhancing the language and grammar of your writing. Whether you are a seasoned writer or just starting, maintaining impeccable language and grammar is essential to create a polished and professional piece of work. Fortunately, AI has brought about revolutionary advancements in the realm of proofreading and editing, making it easier than ever to produce error-free and linguistically precise content.
 

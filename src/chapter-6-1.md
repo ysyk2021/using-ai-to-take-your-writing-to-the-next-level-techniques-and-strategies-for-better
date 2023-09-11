@@ -1,5 +1,4 @@
-Chapter 7: Developing Your AI Writing Toolkit and Customization
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of elevating your writing to the next level using Artificial Intelligence (AI), it's essential to curate a personalized AI writing toolkit that aligns with your specific needs and preferences. This chapter will guide you through the process of building your AI writing toolkit and customizing it to maximize its effectiveness.
 

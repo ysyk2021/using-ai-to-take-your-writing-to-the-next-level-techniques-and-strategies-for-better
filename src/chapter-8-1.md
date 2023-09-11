@@ -1,5 +1,4 @@
-Chapter 7: Emerging Trends and Opportunities in AI for Writing Enhancement
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore the dynamic landscape of Artificial Intelligence (AI) as it pertains to writing enhancement. As technology continues to evolve, new trends and opportunities emerge that can significantly impact the way writers create and improve their content. Let's delve into some of the exciting developments in AI for writing enhancement.
 

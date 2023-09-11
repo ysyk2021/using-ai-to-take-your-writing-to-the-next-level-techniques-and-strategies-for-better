@@ -1,5 +1,4 @@
-Chapter 12: Measuring the Effectiveness and Benefits of AI-Enabled Writing Improvement for Writing Quality and Quantity
-=======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating Artificial Intelligence (AI) into your writing process is a strategic choice that can significantly impact both the quality and quantity of your written output. In this chapter, we will explore how to measure the effectiveness and benefits of AI-enabled writing improvement, allowing you to assess the tangible gains in your writing endeavors.
 

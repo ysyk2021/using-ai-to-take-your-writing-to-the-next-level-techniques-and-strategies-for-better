@@ -1,5 +1,4 @@
-Chapter 11: Different Types of AI Techniques and Platforms for Writing Use Cases
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving landscape of writing and content creation, Artificial Intelligence (AI) offers a diverse array of techniques and platforms to enhance various aspects of the writing process. This chapter will explore different categories of AI techniques and platforms that can be applied to a wide range of writing use cases, empowering writers to achieve better outcomes.
 
